@@ -1,4 +1,4 @@
-# 📅 Teste Inovvati de Agendamento de pessoas - Front-End
+# 📅 Teste Inovvati de Agendamento de pessoas - Back-End
 
 API REST para sistema de agendamentos desenvolvida com Node.js, Express e MySQL.
 
